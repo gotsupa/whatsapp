@@ -1,0 +1,6 @@
+[submodule "whatsapp-backend"]
+	path = whatsapp-backend
+	url = ./whatsapp-backend/
+[submodule "whatsapp-mern"]
+	path = whatsapp-mern
+	url = ./whatsapp-mern/
